@@ -18,9 +18,9 @@ module.exports = {
 	automatic_read_messages: true,
 	automatic_update_profile_status: [false, "Status"],
 	automatic_typing_or_recording: [true, "typing"], // typing/recording
-	owner_number: '628xxx',
-	owner_name: 'Owner Name',
-	bot_name: 'Bot Name',
+	owner_number: '6283838359251',
+	owner_name: 'Muhammad David Aryanto',
+	bot_name: 'totorostore',
 	api: {
 		base_url: 'https://forestapi.web.id', // Do not change this URL.
     	secret_key: 'sk-vropwcc4sy3p9q',

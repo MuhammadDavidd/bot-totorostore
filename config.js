@@ -23,11 +23,11 @@ module.exports = {
 	bot_name: 'Bot Name',
 	api: {
 		base_url: 'https://forestapi.web.id', // Do not change this URL.
-    	secret_key: 'API_KEY',
+    	secret_key: 'sk-vropwcc4sy3p9q',
     	dana: {
-    		name: 'DANI RAMDANI',
-    		number: '082320667363',
-    		email: 'daniramdani310807@gmail.com'
+    		name: 'david',
+    		number: '083838359251',
+    		email: 'muhammaddavidaryanto69@gmail.com'
     	},
     	profit: 2 // This value will be divided by 100 and divided according to the product price.
     }
